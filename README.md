@@ -9,8 +9,21 @@
 3. 只是一个私人账号，不用过多关注。
 4. 感谢来访。
 
+## 🔨 About Skill
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butterdoge&layout=compact)](https://github.com/butterdoge/github-readme-stats)
+### 🔧Software
+![decription](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+![decription](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![decription](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 📣 Language
+![decription](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![decription](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![decription](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+### 📫 Contact Me
+iwisscotmail@gmail.com
 <!--
 **butterdoge/butterdoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
